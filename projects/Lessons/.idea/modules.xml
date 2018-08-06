@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lessons.iml" filepath="$PROJECT_DIR$/Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicviews/basicviews.iml" filepath="$PROJECT_DIR$/basicviews/basicviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education16/education16.iml" filepath="$PROJECT_DIR$/education16/education16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellofirst/hellofirst.iml" filepath="$PROJECT_DIR$/hellofirst/hellofirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l5/l5.iml" filepath="$PROJECT_DIR$/l5/l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l6/l6.iml" filepath="$PROJECT_DIR$/l6/l6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les17/les17.iml" filepath="$PROJECT_DIR$/les17/les17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les5/les5.iml" filepath="$PROJECT_DIR$/les5/les5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication7/myapplication7.iml" filepath="$PROJECT_DIR$/myapplication7/myapplication7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectone/projectone.iml" filepath="$PROJECT_DIR$/projectone/projectone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sixteenToms/sixteenToms.iml" filepath="$PROJECT_DIR$/sixteenToms/sixteenToms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/views/views.iml" filepath="$PROJECT_DIR$/views/views.iml" />
+    </modules>
+  </component>
+</project>

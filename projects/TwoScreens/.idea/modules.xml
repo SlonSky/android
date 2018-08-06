@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TwoScreens.iml" filepath="$PROJECT_DIR$/TwoScreens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson23/lesson23.iml" filepath="$PROJECT_DIR$/lesson23/lesson23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson24/lesson24.iml" filepath="$PROJECT_DIR$/lesson24/lesson24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson26/lesson26.iml" filepath="$PROJECT_DIR$/lesson26/lesson26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson27/lesson27.iml" filepath="$PROJECT_DIR$/lesson27/lesson27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson28/lesson28.iml" filepath="$PROJECT_DIR$/lesson28/lesson28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson29/lesson29.iml" filepath="$PROJECT_DIR$/lesson29/lesson29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson30/lesson30.iml" filepath="$PROJECT_DIR$/lesson30/lesson30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson31/lesson31.iml" filepath="$PROJECT_DIR$/lesson31/lesson31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson32/lesson32.iml" filepath="$PROJECT_DIR$/lesson32/lesson32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson33/lesson33.iml" filepath="$PROJECT_DIR$/lesson33/lesson33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson34/lesson34.iml" filepath="$PROJECT_DIR$/lesson34/lesson34.iml" />
+    </modules>
+  </component>
+</project>

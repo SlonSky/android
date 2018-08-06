@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StaffControl</string>
+    <string name="sample">Иванов Петр Ильич</string>
+    <string name="label_employee">Сотрудник</string>
+    <string name="label_password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="login_hint"><font size="28">Начните вводить имя</font></string>
+    <string name="title_activity_employee_list">Сотрудники</string>
+    <string name="action_settings">Settings</string>
+</resources>

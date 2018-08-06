@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="greet">GREET</string>
+    <string name="instruction">Enter please your data</string>
+</resources>
